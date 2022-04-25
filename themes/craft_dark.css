@@ -1,7 +1,7 @@
-@import url('https://rcvd.github.io/roam-css-system/fonts/craft.css');
-@import url('https://rcvd.github.io/roam-css-system/internal/colors-craft.css');
-@import url('https://rcvd.github.io/roam-css-system/internal/roam-css-system.css');
-@import url('https://rcvd.github.io/roam-css-system/internal/additional-fixes-craft_dark.css');
+@import url('https://roam-css-system.vercel.app/fonts/craft.css');
+@import url('https://roam-css-system.vercel.app/internal/colors-craft.css');
+@import url('https://roam-css-system.vercel.app/internal/roam-css-system.css');
+@import url('https://roam-css-system.vercel.app/internal/additional-fixes-craft_dark.css');
 
 
 :root {
